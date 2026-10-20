@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net" version="24.7.17">
+  <diagram name="w07-crbs-conceptual-data-map" id="w07-crbs-conceptual-data-map">
+    <mxGraphModel page="1" pageWidth="1500" pageHeight="1280">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="CRBS กลุ่มข้อมูลเชิงแนวคิด 13 Data Requirements" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=52;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="10" width="1435" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="190" width="660" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="IDENTITY / AUTHORITY" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=38;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="204" width="1403" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="DR-01 UserReference" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="260" width="1403" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="DR-02 RoleAssignment" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="304" width="1403" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="DR-03 OrganizationalUnit" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="348" width="1403" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="785" y="190" width="660" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="RESOURCE / AVAILABILITY" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=38;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="807" y="204" width="673" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="DR-04 ResourceType" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="260" width="673" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="DR-05 Resource" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="304" width="673" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="DR-06 AvailabilityBlock" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="348" width="673" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#D89715;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="520" width="660" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="REQUEST / DECISION" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=38;fontColor=#D89715;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="534" width="1403" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="15" value="DR-07 BookingRequest" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="590" width="1403" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="16" value="DR-08 RequestRevision" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="634" width="1403" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="17" value="DR-09 DecisionRecord" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="678" width="1403" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="18" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="785" y="520" width="660" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="19" value="FULFILLMENT" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=38;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="807" y="534" width="673" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="20" value="DR-10 FulfillmentRecord" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="590" width="673" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="21" value="DR-11 ConditionRecord" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="634" width="673" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="22" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="850" width="660" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="23" value="EVENT / EVIDENCE" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=38;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="864" width="1403" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="24" value="DR-12 Notification" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="920" width="1403" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="25" value="DR-13 AuditEvent" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="964" width="1403" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="26" value="ภาพแสดงกลุ่มข้อมูล ยังไม่กำหนด Table, Key, Column, Index หรือ API" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=38;fontColor=#173B65;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1181" width="1425" height="46" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

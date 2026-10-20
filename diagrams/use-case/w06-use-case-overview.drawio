@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net" version="24.7.17" type="device">
+  <diagram id="crbs-w06-uc-overview" name="W06 Use Case Overview">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="950" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="sys" value="Campus Resource Booking System (CRBS)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=14;spacingLeft=18;fontSize=22;fontStyle=1;strokeWidth=3;strokeColor=#17365D;fillColor=#F8FBFD;fontFamily=TH Sarabun New;fontSize=34;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="250" y="35" width="1400" height="840" as="geometry"/>
+        </mxCell>
+        <mxCell id="a_student" value="Student Requester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=17;fontStyle=1;strokeWidth=3;strokeColor=#17365D;fillColor=#FFFFFF;fontFamily=TH Sarabun New;fontSize=30;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="100" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="a_manager" value="Area Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=17;fontStyle=1;strokeWidth=3;strokeColor=#17365D;fillColor=#FFFFFF;fontFamily=TH Sarabun New;fontSize=30;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="230" width="100" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="a_officer" value="Resource Officer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=17;fontStyle=1;strokeWidth=3;strokeColor=#17365D;fillColor=#FFFFFF;fontFamily=TH Sarabun New;fontSize=30;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="400" width="100" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="a_staff" value="Authorized Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=17;fontStyle=1;strokeWidth=3;strokeColor=#17365D;fillColor=#FFFFFF;fontFamily=TH Sarabun New;fontSize=30;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="690" width="100" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc01" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-01&lt;br&gt;Search &amp;amp; View&lt;br&gt;Available Resource&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="98.0" width="290" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc02" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-02&lt;br&gt;Create &amp;amp; Submit&lt;br&gt;Booking Request&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="243.0" width="290" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc03" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-03&lt;br&gt;Track &amp;amp; Update&lt;br&gt;Request&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="388.0" width="290" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc06" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-06&lt;br&gt;Cancel Booking Request&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="533.0" width="290" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc04" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-04&lt;br&gt;Review Standard&lt;br&gt;Request&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="98.0" width="260" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc05" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-05&lt;br&gt;Handle Exception&lt;br&gt;Request&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#D69E2E;fillColor=#FFF9ED;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="243.0" width="260" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc09" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-09&lt;br&gt;Manage Resource &amp;amp;&lt;br&gt;Availability Block&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="533.0" width="290" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc10" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-10&lt;br&gt;View History &amp;amp; Audit&lt;br&gt;Trail&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="698.0" width="290" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc07" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-07&lt;br&gt;Record Equipment&lt;br&gt;Handover&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="388.0" width="290" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc08" value="&lt;div style=&quot;line-height:24px;&quot;&gt;UC-08&lt;br&gt;Record Equipment&lt;br&gt;Return&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=1;fontColor=#111111;strokeWidth=2.5;strokeColor=#167D87;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="960" y="698.0" width="290" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_availability" value="&lt;div style=&quot;line-height:24px;&quot;&gt;Check Availability&lt;br&gt;&amp;amp; Conflict&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=0;fontColor=#111111;strokeWidth=2.5;strokeColor=#687384;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="740" y="98.0" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_validate" value="&lt;div style=&quot;line-height:24px;&quot;&gt;Validate Request&lt;br&gt;Data&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=0;fontColor=#111111;strokeWidth=2.5;strokeColor=#687384;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="740" y="243.0" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_conflict" value="&lt;div style=&quot;line-height:24px;&quot;&gt;Recheck&lt;br&gt;Availability &amp;amp;&lt;br&gt;Conflict&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=0;fontColor=#111111;strokeWidth=2.5;strokeColor=#687384;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="98.0" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_noshow" value="&lt;div style=&quot;line-height:24px;&quot;&gt;Record No-Show&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=TH Sarabun New;fontSize=30;fontStyle=0;fontColor=#111111;strokeWidth=2.5;strokeColor=#D69E2E;fillColor=#FFF9ED;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="540" width="240" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="legend" value="Use Case = solid ellipse&lt;br&gt;Actor = stick figure outside system&lt;br&gt;Association = solid line, no arrow&lt;br&gt;Include / Extend = dashed open arrow" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=TH Sarabun New;fontSize=27;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="290" y="710" width="420" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="as1" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.95;exitY=0.4230769230769231;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_student" target="uc01">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="as2" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.95;exitY=0.4230769230769231;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_student" target="uc02">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="as3" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.95;exitY=0.4230769230769231;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_student" target="uc03">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="as4" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.95;exitY=0.4230769230769231;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_student" target="uc06">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ao1" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.5;exitY=0.34615384615384615;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" edge="1" parent="1" source="a_officer" target="uc04">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1675" y="445"/>
+              <mxPoint x="1675" y="65"/>
+              <mxPoint x="1170" y="65"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ao2" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.05;exitY=0.4230769230769231;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_officer" target="uc07">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ao3" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.5;exitY=0.5;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_officer" target="uc08">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1685" y="465"/>
+              <mxPoint x="1685" y="650"/>
+              <mxPoint x="1260" y="650"/>
+              <mxPoint x="1260" y="748"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ao4" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.5;exitY=0.5769230769230769;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_officer" target="uc09">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1665" y="475"/>
+              <mxPoint x="1665" y="625"/>
+              <mxPoint x="1030" y="625"/>
+              <mxPoint x="1030" y="583"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="am1" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.05;exitY=0.4230769230769231;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_manager" target="uc05">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aa1" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#46637F;fontFamily=TH Sarabun New;fontSize=27;exitX=0.05;exitY=0.4230769230769231;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="a_staff" target="uc10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inc0" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#555555;dashed=1;dashPattern=7 5;fontFamily=TH Sarabun New;fontSize=27;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="uc01" target="s_availability">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inc1" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#555555;dashed=1;dashPattern=7 5;fontFamily=TH Sarabun New;fontSize=27;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="uc02" target="s_validate">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inc2" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#555555;dashed=1;dashPattern=7 5;fontFamily=TH Sarabun New;fontSize=27;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="uc04" target="s_conflict">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ext1" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#555555;dashed=1;dashPattern=7 5;fontFamily=TH Sarabun New;fontSize=27;exitX=0.5;exitY=0.0;exitPerimeter=0;entryX=0.5;entryY=1.0;entryPerimeter=0;" edge="1" parent="1" source="uc05" target="uc04">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ext2" value="" style="edgeStyle=none;rounded=0;html=0;startArrow=none;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#555555;dashed=1;dashPattern=7 5;fontFamily=TH Sarabun New;fontSize=27;exitX=0.5;exitY=0.0;exitPerimeter=0;entryX=0.5;entryY=1.0;entryPerimeter=0;" edge="1" parent="1" source="s_noshow" target="uc07">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label_inc0" value="«include»" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=none;strokeColor=none;fontFamily=TH Sarabun New;fontSize=27;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="620.0" y="114" width="120" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="label_inc1" value="«include»" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=none;strokeColor=none;fontFamily=TH Sarabun New;fontSize=27;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="620.0" y="259" width="120" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="label_inc2" value="«include»" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=none;strokeColor=none;fontFamily=TH Sarabun New;fontSize=27;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="1300.0" y="114" width="120" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="label_ext1" value="«extend»&lt;br&gt;[exception flag or AvailabilityBlock]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fillColor=none;strokeColor=none;fontFamily=TH Sarabun New;fontSize=24;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="193" width="430" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="label_ext2" value="«extend»&lt;br&gt;[requester absent]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fillColor=none;strokeColor=none;fontFamily=TH Sarabun New;fontSize=24;fontColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="481" width="430" height="48" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

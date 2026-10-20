@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net" version="24.7.17">
+  <diagram name="w07-crbs-lifecycle" id="w07-crbs-lifecycle">
+    <mxGraphModel page="1" pageWidth="1600" pageHeight="1890">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="240" as="sourcePoint"/>
+            <mxPoint x="1070" y="240" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="386" as="sourcePoint"/>
+            <mxPoint x="1070" y="386" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="532" as="sourcePoint"/>
+            <mxPoint x="1070" y="532" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="678" as="sourcePoint"/>
+            <mxPoint x="1070" y="678" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="824" as="sourcePoint"/>
+            <mxPoint x="1070" y="824" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="970" as="sourcePoint"/>
+            <mxPoint x="1070" y="970" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="1116" as="sourcePoint"/>
+            <mxPoint x="1070" y="1116" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#173B65;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="1342" as="sourcePoint"/>
+            <mxPoint x="1070" y="1342" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#173B65;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="1488" as="sourcePoint"/>
+            <mxPoint x="1070" y="1488" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#173B65;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="1634" as="sourcePoint"/>
+            <mxPoint x="1070" y="1634" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="CRBS วงจรคำขอและการส่งมอบ" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=52;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="10" width="1535" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="ภาพสรุป transitions อ่านแยกแต่ละแถว ชื่อสถานะที่ซ้ำหมายถึงสถานะเดียวกัน" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=35;fontColor=#536579;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="81" width="1535" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="200" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="15" value="Draft" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="212" width="1503" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="16" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="200" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="17" value="Submitted" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="212" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="18" value="Submit [required fields complete]" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="285" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="19" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="346" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="20" value="Submitted" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="358" width="1503" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="21" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="346" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="22" value="Under Review" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="358" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="23" value="Precheck passes" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="431" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="24" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="492" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="25" value="Submitted / Under Review" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="504" width="1503" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="26" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="492" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="27" value="Needs Information" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="504" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="28" value="Validation fails / Request more info" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="577" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="29" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="638" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="30" value="Needs Information" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="650" width="1503" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="31" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="638" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="32" value="Submitted" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="650" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="33" value="Update and resubmit [revision recorded]" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="723" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="34" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="784" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="35" value="Submitted / Under Review" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="796" width="1503" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="36" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="784" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="37" value="Exception Review" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="796" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="38" value="Exception detected / Route exception" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="869" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="39" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="930" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="40" value="Under Review / Exception Review" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="946" width="1503" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="41" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="930" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="42" value="Confirmed / Rejected" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="942" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="43" value="Approve [recheck overlap; authority] / Reject [reason]" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1015" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="44" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1076" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="45" value="Draft / Submitted / Needs Information /" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1083" width="1505" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="46" value="Under Review / Exception Review / Confirmed" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1119" width="1505" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="47" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1076" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="48" value="Cancelled" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="1088" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="49" value="Cancel [owner or authority; before checkout]" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1161" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="50" value="FULFILLMENT — เริ่มได้เมื่อคำขอ Confirmed" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1244" width="1530" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="51" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1302" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="52" value="Awaiting Handover" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="1314" width="1503" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="53" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1302" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="54" value="Checked Out" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="1314" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="55" value="Record handover [responsible + due]" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1387" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="56" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1448" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57" value="Checked Out" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="1460" width="1503" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="58" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1448" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="59" value="Returned" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="1460" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="60" value="Record return [time + condition]" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1533" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="61" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1594" width="610" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="62" value="Awaiting Handover" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="1606" width="1503" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="63" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1594" width="465" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="64" value="No Show" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="1606" width="478" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="65" value="Record no show [requester absent]" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=31;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1679" width="890" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="66" value="แยก Booking Request กับ Fulfillment และดู transition guards ฉบับเต็มในตาราง" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=38;fontColor=#173B65;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1786" width="1525" height="46" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

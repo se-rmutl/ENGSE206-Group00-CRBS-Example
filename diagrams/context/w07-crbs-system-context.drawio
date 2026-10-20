@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net" version="24.7.17">
+  <diagram name="w07-crbs-system-context" id="w07-crbs-system-context">
+    <mxGraphModel page="1" pageWidth="1500" pageHeight="1060">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="280" as="sourcePoint"/>
+            <mxPoint x="460" y="280" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="495" as="sourcePoint"/>
+            <mxPoint x="460" y="495" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="710" as="sourcePoint"/>
+            <mxPoint x="460" y="710" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#D89715;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="265" as="sourcePoint"/>
+            <mxPoint x="1030" y="265" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#D89715;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="445" as="sourcePoint"/>
+            <mxPoint x="1030" y="445" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#D89715;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="625" as="sourcePoint"/>
+            <mxPoint x="1030" y="625" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="edgeStyle=none;endArrow=open;dashed=0;strokeColor=#008699;strokeWidth=3;fontFamily=TH Sarabun New;fontSize=32;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="805" as="sourcePoint"/>
+            <mxPoint x="1030" y="805" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="CRBS ขอบเขตระบบและผู้เกี่ยวข้อง" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=52;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="10" width="1435" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#173B65;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="550" height="665" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="CRBS" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#173B65;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="202" width="988" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="Catalog &amp; Availability" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="260" width="988" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="Request &amp; Validation" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="304" width="988" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="Approval &amp; Exception" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="348" width="988" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="15" value="Handover &amp; Return" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="392" width="988" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="16" value="Notification &amp; Audit" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="436" width="988" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="17" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="35" y="205" width="350" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="18" value="ACT-01" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="217" width="1423" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="19" value="Student Requester" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="57" y="275" width="1423" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="20" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="35" y="420" width="350" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="21" value="ACT-02" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="432" width="1423" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="22" value="Resource Officer" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="57" y="490" width="1423" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="23" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="35" y="635" width="350" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="24" value="ACT-03" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=40;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="647" width="1423" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="25" value="Area Manager" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="57" y="705" width="1423" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="26" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#D89715;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="190" width="360" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="27" value="EXT-01" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#D89715;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="206" width="358" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="28" value="Identity Service" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="260" width="358" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="29" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#D89715;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="370" width="360" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="30" value="EXT-02 Extension" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#D89715;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="386" width="358" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="31" value="Schedule Source" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="440" width="358" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="32" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#D89715;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="550" width="360" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="33" value="EXT-03 Extension" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#D89715;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="566" width="358" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="34" value="External Notification" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="620" width="358" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="35" value="" style="rounded=1;whiteSpace=wrap;fillColor=#F1F7FA;strokeColor=#008699;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="730" width="360" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="36" value="ACT-04" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#008699;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="746" width="358" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="37" value="System Administrator" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=36;fontColor=#172333;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="800" width="358" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="38" value="Core: In-app Notification และ AvailabilityBlock ที่เจ้าหน้าที่บันทึก" style="text;html=0;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=TH Sarabun New;fontSize=38;fontColor=#173B65;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="936" width="1445" height="46" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

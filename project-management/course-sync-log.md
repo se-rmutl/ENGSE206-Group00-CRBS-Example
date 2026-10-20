@@ -1,0 +1,10 @@
+# Course Assignment Sync Log
+
+บันทึกทุกครั้งที่กลุ่มเปิดอ่านคำสั่งใหม่หรือพบว่า Course Repo มีการแก้ไข
+
+| Date | Week | Assignment ID / URL | Course commit/version | Checked by | Impact on team work | Action |
+|---|---:|---|---|---|---|---|
+| 2026-07-14 | 3 | `W03-v2.0` · `W04-v2.0` — [W03 contract](https://github.com/se-rmutl/engse206-lab/blob/main/weeks/week-03-elicitation-interview-design/assignment-contract.md) | `ed45f29` | วรินทร์ | Course Repo เพิ่ม assignment contract ของทุกสัปดาห์ · W03 มี checkpoint commit `checkpoint(w03): elicitation plan and interview rehearsal` และกำหนด path ส่งงาน | ใช้ข้อความ commit และ path ตาม contract ตั้งแต่ W03 · ตรวจ path ของ W01–W02 ที่ส่งไปแล้วว่าตรง contract |
+| 2026-07-21 | 4 | `W04-v2.0` — [W04 contract](https://github.com/se-rmutl/engse206-lab/blob/main/weeks/week-04-stakeholder-simulation-negotiation/assignment-contract.md) | `2799887` | ชลิตา | เนื้อหา contract W04 เปลี่ยนโดยเลข version เท่าเดิม: path ส่งงานเป็น `evidence/week-04/ai-conversation-excerpt.md` · `docs/04-requirement-candidates.md` · ข้อความ commit เป็น `checkpoint(w04): extract evidence from ai conversation` และ `submit(w04): evidence and requirement candidates` | ใช้ path และข้อความ commit ชุดใหม่ตั้งแต่เริ่ม W04 |
+| 2026-08-19 | 5 | `W05-RBR-v1.0` — [W05b README](https://github.com/se-rmutl/engse206-lab/blob/main/weeks/week-05b-baseline-review-studio/README.md) | `e3d61f4` | ชลิตา | Course Repo เพิ่ม README ของ Baseline Review Studio คืน 18 ส.ค. หลังทีมทำ W05b ในคาบตามเอกสารที่ผู้สอนแจก | เทียบแล้วตรงกับที่ส่ง (path · ข้อความ commit · tag `baseline-v1.0`) ไม่ต้องแก้ |
+| 2026-09-29 | 11 | `W11-v1.1` — [W11 contract](https://github.com/se-rmutl/engse206-lab/blob/main/weeks/week-11-conceptual-architecture/assignment-contract.md) | `da88987` | วรินทร์ | contract W11 เปลี่ยนจาก v1.0: เอกสารหลักเป็นไฟล์ Word `design/11-conceptual-architecture-v0.1.docx` · `.md` เป็นทางเลือก · ต้องมีภาพ frame Miro ก่อน/หลังแก้ใน `evidence/week-11/` | ทำไฟล์ Word จาก Template W11 · เก็บ `.md` เป็นสรุปสั้น · เก็บภาพ frame ก่อนและหลังแก้ |
